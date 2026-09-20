@@ -1,0 +1,10 @@
+__pycache__/
+*.py[cod]
+scenv/
+.ipynb_checkpoints/
+data/pbmc3k/*.tar.gz
+data/pbmc3k/filtered_gene_bc_matrices/
+output/
+.vscode/
+.idea/
+*.swp
